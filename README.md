@@ -1,5 +1,7 @@
 # UnClaude 🤖
 
+<sub>A <a href="https://halleylabs.dev">Halley</a> project</sub>
+
 > **The Open Source, Model-Independent AI Engineer**  
 > _Your Data. Your Models. Your Rules._
 
@@ -536,7 +538,7 @@ pipx install unclaude
 pip install unclaude
 
 # From source (for development)
-git clone https://github.com/anzal1/unclaude.git
+git clone https://github.com/halleylabs/unclaude.git
 cd unclaude && pip install -e .
 ```
 
@@ -659,7 +661,7 @@ export ANTHROPIC_API_KEY="your-key"
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ```bash
-git clone https://github.com/anzal1/unclaude.git
+git clone https://github.com/halleylabs/unclaude.git
 cd unclaude
 pip install -e ".[dev]"
 pytest
